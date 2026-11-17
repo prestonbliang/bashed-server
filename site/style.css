@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif
+    max-width: 800px
+    margin: 40px auto;
+    background: #f5f5f5;
+    color: #cdd6f4;
+}
+
+a {
+    color: #89b4fa;
+}
+
+button {
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+}
