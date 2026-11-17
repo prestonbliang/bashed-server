@@ -1,0 +1,3 @@
+Basically just my bashed WEBSERVER
+Review in the .sh file to see usage...
+Download and just call it with ./bashed-server.sh, implementation of arguments in bashed-server.sh
